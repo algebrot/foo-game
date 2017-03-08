@@ -4,7 +4,7 @@ Foo Game is a simplified form of the board game Tak and can be played by running
 
 The game was designed to be simply expandable by other developers. More details can be found in the Documentation file! 
 
-Below is a sample of the gameplay:
+Below is a sample of gameplay:
 
 
 ![alt tag](https://github.com/algebrot/foo-game/blob/master/GamePlay.jpg)
